@@ -75,5 +75,6 @@ public class Estado implements Serializable {
 		Estado other = (Estado) obj;
 		return Objects.equals(id, other.id);
 	}
+	/////teste gitignore
 
 }
